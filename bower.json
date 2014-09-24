@@ -1,0 +1,26 @@
+{
+    "name": "angular-sf-form-errors",
+    "main": "angular-sf-form-errors.js",
+    "version": "0.0.1",
+    "authors": [
+        "Michal Jankowski michu.jankowski@gmail.com"
+    ],
+    "description": "Errors render for Symfony2 + AngularJs + FOSREST",
+    "moduleType": [
+        "globals"
+    ],
+    "license": "Copyright (C) Michal Jankowski 2014",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "1.2.21"
+    },
+    "resolutions": {
+        "angular": "1.2.21"
+    }
+}
